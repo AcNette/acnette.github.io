@@ -16,3 +16,7 @@ body {
 .left-side {
     color:#fff;
 }
+
+.right-side {
+    margin-left: 24px;
+}
