@@ -9,7 +9,7 @@ body {
 }
 
 .hero {
-    display: flexbox;
+    display: flex;
     flex: 1;
 }
 
