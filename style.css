@@ -1,0 +1,10 @@
+.hero {
+    display: flexbox;
+    flex: 1;
+    background-color: #1F2937
+}
+
+.left-side {
+    color:#fff;
+
+}
