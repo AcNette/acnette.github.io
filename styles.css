@@ -40,3 +40,8 @@ body {
     flex-direction: row;
     color: #000;
 }
+.section3 {
+    background-color: #e5e7eb;
+    color : #1f2937;
+    font-weight: 900;
+}
