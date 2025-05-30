@@ -33,7 +33,7 @@ body {
     font-weight: 900;
     color: #1F2937;
 }
-.boxes {
+.boxes1 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -55,6 +55,7 @@ body {
     text-align: center;
     flex-direction: column;
 }
+
 .section3 {
     background-color: #e5e7eb;
     color : #1f2937;
